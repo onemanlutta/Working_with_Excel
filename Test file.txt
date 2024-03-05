@@ -1,0 +1,6 @@
+DAX
+VBA
+Power Pivot
+Python
+Power BI
+SQL
